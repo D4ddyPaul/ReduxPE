@@ -1,0 +1,21 @@
+@import "./variables.scss";
+@import "./fonts.scss";
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+}
+
+h1, h2 {
+  font-family: 'Raleway';
+}
+
+h3, p {
+  font-family: 'Open_Sans';
+}
+
+@import "./herosMapGrid.scss";
